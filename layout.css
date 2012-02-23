@@ -1,0 +1,40 @@
+#main { width:785px; margin:0 auto;}
+
+#header {height:277px;}
+#header .column{ width:626px; float:left;}
+#header .column_1{ width:140px; float:left;}
+
+/*---page---*/
+#page #wrapper .column{ width:232px; float:left;}
+#page #wrapper .column_1{ width:502px; float:left;}
+/*---// page---*/
+
+/*---page_1---*/
+#page_1 #wrapper .column{ width:232px; float:left;}
+#page_1 #wrapper .column_1{ width:492px; float:left;}
+/*---// page_1---*/
+
+/*---page_2---*/
+#page_2 #wrapper .column{ width:232px; float:left;}
+#page_2 #wrapper .column_1{ width:492px; float:left;}
+/*---// page_2---*/
+
+
+/*---page_3---*/
+#page_3 #wrapper .column{ width:232px; float:left;}
+#page_3 #wrapper .column_1{ width:492px; float:left;}
+/*---// page_3---*/
+
+/*---page_4---*/
+#page_4 #wrapper .column{ width:232px; float:left;}
+#page_4 #wrapper .column_1{ width:492px; float:left;}
+/*---// page_4---*/
+
+/*---page_5---*/
+#page_5 #wrapper .column{ width:232px; float:left;}
+#page_5 #wrapper .column_1{ width:492px; float:left;}
+/*---// page_5---*/
+
+/*---page_6---*/
+#page_6 #wrapper .column{ width:710px;}
+/*---// page_6---*/
